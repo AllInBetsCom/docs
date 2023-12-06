@@ -19,7 +19,7 @@ layout:
 
 Rakeback is a loyalty program designed for online gambling platforms, especially casinos. It is a reward system where a portion of your bet is returned to you, acting as a form of rebate or cashback. It's based on the theoretical house edge, the advantage the casino holds over players in games of chance. Every time you place a bet with AllinBets, you receive a portion of that bet back, with the specific amount determined by your ‘rakeback percentage’. Essentially, the concept rewards players for their engagement: the more you wager, the greater your potential returns through rakeback. This system ensures that players are continuously rewarded, providing an additional incentive to play and wager more on the platform.
 
-**1. Base Rakeback**&#x20;
+**1. Base Rakeback**
 
 Every player on ALLiN BETS is entitled to a base rakeback of 3% on every bet they place, irrespective of the game they choose. This ensures that players are rewarded for their gameplay, regardless of the game's outcome. Win or lose, you earn with every bet!
 
@@ -43,4 +43,6 @@ Here's a table illustrating the enhanced rakeback percentages based on CMDX stak
 
 By opting for CMDX as your wagering token and leveraging the CMDX PowerPlay, you can significantly amplify your rewards and elevate your gaming experience on our platform.
 
-\
+4. Go ALLiN
+
+Go ALLiN and elevate your gaming experience! Unleash the thrill by hitting the ALLiN button beneath every game—your gateway to an exhilarating 10% additional rakeback! It's the extra spark that takes your gameplay to the next level. Ready to seize the excitement? Press ALLiN and let the winning spree begin!

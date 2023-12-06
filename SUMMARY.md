@@ -26,7 +26,6 @@
 * [Rakeback and Incentives](unique-aspects/rakeback-and-incentives.md)
 * [Live Support](unique-aspects/live-support.md)
 * [Glossary](unique-aspects/glossary.md)
-* [Privacy Policy](unique-aspects/privacy-policy.md)
 * [Terms and Conditions](unique-aspects/terms-and-conditions.md)
 
 ## FAQ
@@ -37,4 +36,5 @@
 * [Games](faq/games.md)
 * [Supported Cryptocurrencies](faq/supported-cryptocurrencies.md)
 * [Fairness](faq/fairness.md)
+* [Responsible Gambling](faq/responsible-gambling.md)
 * [Support](faq/support.md)
