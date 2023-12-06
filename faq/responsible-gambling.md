@@ -10,9 +10,6 @@ All individuals under the age of 18 are strictly prohibited from gambling at ALL
 
 Tips for parents include not leaving computers unattended when casino software is running and using gambling bet-blocking and filtering tools like Gamblock, Kaspersky Safe Kids, etc.
 
-\
-
-
 ### Identify Gambling Addiction
 
 Problem gambling, also known as gambling addiction or compulsive gambling, is a serious issue that can have significant negative consequences for individuals and their loved ones. Here are 6-8 signs that may indicate a person is struggling with problem gambling:
